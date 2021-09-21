@@ -1,0 +1,2 @@
+# Speech-Recognition
+Based on the voice as the research object which allows the machine to turn the speech signal into text or commands through the process of understanding and identification, and also it makes the function of natural voice communication.The ultimate goal is to achieve the natural language communication between human and machine. This paper comprises a module of ASR (Automatic Speech Recognition) using Arduino and BitVoicer.
